@@ -1,0 +1,6 @@
+{
+  "name": "Cerebro BI — Enterprise AI Business Intelligence & Analytics",
+  "description": "Enterprise AI-powered business intelligence platform providing predictive analytics, automated executive reports, statistical anomaly detection, and natural language business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
